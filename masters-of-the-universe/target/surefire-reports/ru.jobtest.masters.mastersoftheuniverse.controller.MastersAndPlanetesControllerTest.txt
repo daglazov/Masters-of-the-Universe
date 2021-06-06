@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ru.jobtest.masters.mastersoftheuniverse.controller.MastersAndPlanetesControllerTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.478 s - in ru.jobtest.masters.mastersoftheuniverse.controller.MastersAndPlanetesControllerTest

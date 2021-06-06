@@ -1,0 +1,9 @@
+ru/jobtest/masters/mastersoftheuniverse/domain/Planet.class
+ru/jobtest/masters/mastersoftheuniverse/repository/CommonRepository.class
+ru/jobtest/masters/mastersoftheuniverse/domain/Master.class
+ru/jobtest/masters/mastersoftheuniverse/repository/MastersRepository.class
+ru/jobtest/masters/mastersoftheuniverse/repository/PlanetesRepository.class
+ru/jobtest/masters/mastersoftheuniverse/domain/PlanetBuilder.class
+ru/jobtest/masters/mastersoftheuniverse/controller/MastersAndPlanetesController.class
+ru/jobtest/masters/mastersoftheuniverse/domain/MasterBuilder.class
+ru/jobtest/masters/mastersoftheuniverse/MastersOfTheUniverseApplication.class
